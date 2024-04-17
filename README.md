@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey there, welcome to my github profile 🌠
+
+I'm a research scientist at Deutsches Elektronen-Synchrotron DESY in Zeuthen, Germany. I'm currently pursuing a PhD in astroparticle physics, performing a search for heavy neutral leptons using atmospheric neutrinos measured by the IceCubu Neutrino Observatory.
+
+* 🗣️ I am proficient in the programming languages $\texttt{Python}$, $\texttt{C++}$, and $\LaTeX$
+* 🪛 I am a maintainer of the neutrino oscillation analysis framework [PISA](https://github.com/icecube/pisa)
+* 🌱 Currently, I am enhancing my knowledge on [github actions](https://docs.github.com/en/actions)
+
+You can contact me by [mail](mailto:leander.fischer@desy.de) or reach out on [linkedin](https://www.linkedin.com/in/leander-fischer-9385ab70/)
 
 <!--
 **LeanderFischer/LeanderFischer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

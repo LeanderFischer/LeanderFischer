@@ -1,24 +1,10 @@
 ### Hey there, welcome to my github profile 🌠
 
-I'm a research scientist at Deutsches Elektronen-Synchrotron DESY in Zeuthen, Germany. I'm currently pursuing a PhD in astroparticle physics, performing a search for heavy neutral leptons using atmospheric neutrinos measured by the IceCubu Neutrino Observatory.
+I'm a postdoctoral research scientist at Deutsches Elektronen-Synchrotron (DESY) in Zeuthen, Germany. I recently defended my PhD in astroparticle physics, after performing the first search for GeV-scale heavy neutral leptons with the IceCube Neutrino Observatory using 10 years of atmospheric neutrino data.
 
-* 🗣️ I am proficient in the programming languages $\texttt{Python}$, $\texttt{C++}$, and $\LaTeX$
+* 🗣️ I am proficient in the programming languages $\texttt{Python}$ and $\texttt{C++}$ as well as skilled in text formatting with $\LaTeX$
 * 🪛 I am a maintainer of the neutrino oscillation analysis framework [PISA](https://github.com/icecube/pisa)
 * 🌱 Currently, I am enhancing my knowledge on [github actions](https://docs.github.com/en/actions)
+* 💬 Ask me something about neutrinos 👻
 
-You can contact me by [mail](mailto:leander.fischer@desy.de) or reach out on [linkedin](https://www.linkedin.com/in/leander-fischer-9385ab70/)
-
-<!--
-**LeanderFischer/LeanderFischer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can contact me by [mail](mailto:leander.fischer@outlook.com) or reach out on [linkedin](https://www.linkedin.com/in/leander-fischer-9385ab70/)
